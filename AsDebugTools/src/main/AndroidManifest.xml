@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.liangchen.asdebugtools">
+
+    <application>
+        <activity
+            android:name=".AsDebugMainActivity"
+            android:label="@string/title_activity_as_debug_main"
+            android:theme="@style/Theme.AsDebug.NoActionBar"></activity>
+    </application>
+
+</manifest>
